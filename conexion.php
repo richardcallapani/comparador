@@ -1,10 +1,10 @@
 <?php
 
 function conectarMySQL() {
-  $servername = "localhost:3306";
-  $database = "comparacion";
-  $username = "root";
-  $password = "";
+  $servername = "us-cdbr-east-06.cleardb.net";
+  $database = "heroku_db3d9982984471e";
+  $username = "b10f7e72b91db6";
+  $password = "8d83b2b7";
 
   $conexion = mysqli_connect($servername, $username, $password, $database);
 
