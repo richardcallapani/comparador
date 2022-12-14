@@ -1,0 +1,151 @@
+Gestión del Conocimiento
+
+    PC 03
+           Edgar Richard Callapani Condori
+ Parte A
+1. A qué se denomina la explotación del conocimiento, en:
+ a) las empresas productoras de bienes.
+ Los resultados muestran que las empresas que combinan la explotación y la exploración deben
+ adoptar prácticas empresariales a largo plazo las cuales les favorezcan en temas de riesgos y
+ creatividad y deben ser cuidadosas a la hora de combinar dichas competencias con su contexto
+ organizacional
+
+ b) Las empresas prestadoras de servicios.
+ La explotación del conocimiento se refiere a la capacidad de una empresa de generar ingresos a
+ partir del conocimiento y la experiencia de sus empleados. En otras palabras, se trata de la
+ capacidad de una empresa para aprovechar al máximo el talento y el potencial de sus empleados.
+2. ¿Qué acciones se requieren para organizar y distribuir el
+conocimiento? .
+Organizar y distribuir el conocimiento requiere, en primera instancia, objetivarlo; es decir, extraerlo de la mente
+de las personas y colocarlo en manuales, procedimientos, documentos, etc. Esto es transformar el conocimiento
+explícito en conocimiento tácito. En síntesis, dar estructura al conocimiento que posee la organización para
+facilitar el proceso de distribución y su posterior aplicación en el proceso de creación de valor.
+3. ¿Cómo se puede aplicar la Gestión del conocimiento en las
+actividades de innovación en los siguientes casos?
+             a)De productos: Creatividad, capacitación, el uso de nuevos insumos para la elaboración de productos
+             innovadores que satisfagan las necesidades actuales de los clientes.
+             b)De procesos: Realizar estrategias como parte de la optimización de procesos en diferentes
+             organizaciones, para potenciar y darle continuidad de innovación.
+             c)De las organizaciones: Podemos mencionar que dentro de una organización es necesario realizar
+             actividades que van desde los valores, transparencia y cambio cultural, aplicando herramientas para la
+             generación y producción del conocimiento en el equipo de trabajo.
+4. ¿El despliegue de una estrategia de gestión del conocimiento enfrenta
+diversos tipos de barreras que deben ser reconocidas y valoradas para
+generar acciones que permitan superarlas de manera eficaz? ¿Cuáles son
+esas barreras? ¿Cómo pueden ser enfrentadas?.
+   Falta de apoyo del nivel directivo porque no perciben la Gestión de Conocimiento y su relación con el logro de la estrategia del negocio.
+   Desconocimiento de qué significa Gestionar el conocimiento, muchas veces se confunde con capacitación.
+   No se dimensionan adecuadamente los recursos.
+   El día a día versus el tiempo para implantar la Gestión de Conocimiento.
+   No se designan roles y responsabilidades claros para llevar el proceso, se piensa por lo general que es una responsabilidad de Gestión Humana o
+   del área de Procesos.
+   No se define una ruta clara de implantación y del nivel de madurez que se desea llegar en el corto y mediano plazo.
+   La cultura organizacional resistente al cambio y no se gestiona adecuadamente la instauración de nuevos valores y creencias.
+                          las organizaciones están en la búsqueda continua de mejorar su gestión para dar mejores
+                          resultados, la implantación de la Gestión de Conocimiento requiere reconocer el valor del
+                           aprendizaje colaborativo, objetivos claros, disciplina y sobre todo sentido de propósito,
+                                           porque se puede correr el riesgo de quedar en intención.
+5. ¿A que se denominan procesos de transferencia                                  del
+conocimiento?. ¿Cómo se realizan estos procesos?.
+
+    El proceso de transferencia de una nueva tecnología es el mecanismo habitual por el
+    que las organizaciones van adaptando para adaptarse a los requisitos derivados del
+    inicio de nuevos proyectos para realizar nuevos productos, servicios o procesos.
+Parte B
+1. ¿Cuáles son las diferentes clases de conocimiento que se requieren
+  para la gestión del conocimiento en las organizaciones de Software?
+  Descríbalos.
+        Conocimiento del dominio (CD): Hace referencia a las reglas de negocio que
+        soportan la misión empresarial y los referentes normativos, legales y culturales
+        que influyen en los procesos de negocio.
+        Conocimiento del sistema (CS): Este se refiere al conocimiento embebido en la
+        aplicación y no se puede identificar claramente en la documentación del diseño.
+        Conocimientos generales de la ingeniería de software (CG): Hace referencia al
+        conocimiento y habilidades que deben tener los probadores frente a la cadena de valor
+        que soporta la construcción de software.
+2. ¿A que se denominan pruebas de software? ¿Qué normas
+existen para este fin?. Describa las normas.
+  La prueba de software es el proceso de evaluar y verificar que un producto o
+  aplicación de software hace lo que se supone que debe hacer. Son una parte
+  integral del ciclo de vida del desarrollo de software.
+  ISO 29119 son un conjunto de documentos definidos internacionalmente que
+  tratan los conceptos, procesos, técnicas, documentos, tecnologías y términos de
+  pruebas de software.
+3. ¿Qué procesos de la Gestión del conocimiento son adoptados por el
+modelo de Gestión de Conocimiento propuesto por los autores del
+artículo? ¿Por qué considera que los adoptan?
+
+  ·Identificación: se analiza el conocimiento estratégico requerido para el proceso.
+  ·Incorporación: Se agrega al plan de pruebas las actividades requeridas.
+  ·Preservación: Aquí se incluye en el artefacto denominado registro de incidencias, el evento
+  de conocimiento que permite el registro de problemas obtenidos en el proceso.
+  ·Utilización: debe contar con una cultura y medios tecnológicos que permitan la apropiación
+  de los conocimientos derivados del proceso.
+
+             Considero que forman parte de la gestión del conocimiento, el descubrimiento, la
+             captura, la clasificación y almacenamiento, la distribución y diseminación, el
+             compartir el conocimiento y la colaboración.
+4. Describa el proceso de aplicación del Modelo a las pruebas de
+Software propuesta por estos autores. ¿Cuáles son los resultados más
+importantes de la aplicación delmodelo?
+
+  Este modelo se aplica al proceso de pruebas de SW que soporta la gestión de prácticas de los
+  programas académicos adscritos a una IES.
+  Este SW es utilizado para el estudio, es una aplicación ubicada en un servidor de producción
+     Como resultados importantes se obtuvieron:
+     Se detecto la documentación incompleta, por lo que se debe mejorar las especificaciones.
+
+     El análisis preliminar de riesgo, se define la periodicidad de la reuniones con los clientes.
+Parte C
+1. ¿Cuáles son los factores determinantes para llevar a cabo la gestión
+  de conocimiento en organizaciones basadas en conocimiento?
+        Cultura del conocimiento: Es la que permite que haya expectativas
+        comunes, experiencias compartidas y normas sociales que den forma a las
+        actitudes y comportamientos.
+
+        Las Tecnologías de la Información: Este factor con el fin de construir las
+        capacidades de intercambio de conocimientos, la organización debe
+        desarrollar una infraestructura integral que facilita los diversos tipos de
+        conocimiento y comunicación.
+
+        Las personas: se dice que son verdaderos agentes de negocios donde
+        todos los bienes tangibles e intangibles son resultado de la acción humana
+        y dependen en última instancia de las personas para su existencia
+        continuada.
+2. ¿A que se denomina la Gestión de Conocimiento en Redes de
+Innovación?
+  La gestión del conocimiento y la innovación implica administrar el conocimiento tácito (intangible) y
+  explícito (tangible) en las entidades para mejorar los productos y servicios que ofrece, su
+  desempeño y los resultados de gestión.
+  Hace énfasis en la importancia de las relaciones de cooperación entre las empresas como un
+  mecanismo de articulación clave de configuraciones de red.
+
+3. ¿Cómo se puede aplicar las TIC´s en el proceso de socialización
+. Explique.
+                 Este nos propone la creación de espacios online, en los que trabajadores, investigadores y
+                 expertos puedan interactuar para discutir los temas de región, incorporando a estos
+                 procesos de socialización toda una serie de ventajas y posibilidades, pero también
+                 desafíos y riesgos.
+Parte D
+1. ¿A qué se denomina ecosistema empresarial?
+   Un ecosistema empresarial es un acuerdo de negocios con un propósito entre dos o más entidades
+   (los miembros) para crear y compartir valor colectivo para un conjunto común de clientes. Cada
+   ecosistema empresarial tiene participantes, y al menos un miembro actúa como el orquestador de
+   los participantes. Todos los miembros de un ecosistema empresarial, ya sean orquestadores o
+   participantes, tienen sus marcas presentes en las propuestas de valor.
+
+2. ¿Cómo interviene la Gestión del conocimiento en los
+procesos de innovación?
+
+         La gestión del conocimiento en el proceso de innovación es imprescindible. El proceso de
+         innovación es el que da soporte al aprendizaje colectivo en la empresa. Por su propia naturaleza es
+         el proceso que más conocimiento organizacional va a generar en la compañía.
+3. ¿Cómo se puede incentivar la innovación en la empresa?
+  Hay que incentivar el interés y crear una actitud positiva y atenta. Ligar innovación e incentivos
+  puede significar una cierta revolución en los criterios de medida del desempeño profesional.
+
+
+
+
+                        GRACIAS
+
